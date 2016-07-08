@@ -1,7 +1,7 @@
 {
 	"name": "Theme-NaturalContrast-With-HC",
 	"displayName": "NaturalContrast Theme with High contrast",
-	"description": "NaturalContrast TextMate Theme with HighContrastFrame",
+	"description": "NaturalContrast TextMate Theme with High Contrast Frame",
 	"version": "1.0.0",
 	"publisher": "74th",
     "repository": {
@@ -10,7 +10,7 @@
     },
     "homepage": "https://github.com/74th/vscode-naturalcontrast-with-hc",
 	"engines": {
-		"vscode": "^0.10.1"
+		"vscode": "^1.3.0"
 	},
 	"categories": [
 		"Themes"
