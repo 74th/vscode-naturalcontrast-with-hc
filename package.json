@@ -21,7 +21,7 @@
 			{
 				"label": "NaturalContrast-HC",
 				"uiTheme": "hc-black",
-				"path": "./themes/NaturalContrast.tmTheme"
+				"path": "./themes/NaturalContrast.tmtheme"
 			}
 		]
 	}
